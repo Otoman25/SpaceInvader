@@ -1,0 +1,13 @@
+﻿  SpaceInvaders.cpp
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(170): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(227): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\grich\source\repos\spaceinvadersredone\spaceinvaders\spaceinvaders\spaceinvaders.cpp(369): warning C4018: '<': signed/unsigned mismatch
+  SpaceInvaders.vcxproj -> C:\Users\grich\source\repos\SpaceInvadersRedone\SpaceInvaders\Debug\SpaceInvaders.exe
