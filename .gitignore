@@ -21,3 +21,8 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+.vs/
+SpaceInvaders/Release/
+SpaceInvaders/Debug/
+SpaceInvaders/x64/

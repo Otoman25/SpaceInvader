@@ -1,6 +1,0 @@
-﻿  SpaceInvaders.cpp
-SpaceInvaders.cpp(110): warning C4018: '<': signed/unsigned mismatch
-SpaceInvaders.cpp(141): warning C4018: '<': signed/unsigned mismatch
-SpaceInvaders.cpp(144): warning C4018: '<': signed/unsigned mismatch
-SpaceInvaders.cpp(191): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-LINK : fatal error LNK1104: cannot open file 'C:\Users\grich\source\repos\SpaceInvaders\Release\SpaceInvaders.exe'
